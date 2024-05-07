@@ -4,8 +4,11 @@ Exploratory Data Analysis (EDA) is a fundamental aspect of data science, often c
 
 # Project Description :-
 1.Performed Data Cleaning and Data Manipulation.
+
 2.Performed Exploratory Data Analysis (EDA) using Pandas, NumPy, Matplotlib, Seaborn Libraries.
+
 3.Improved Customer experience by identifying potential customers across different states, occupation, gender and age groups.
+
 4.Improved sales by identifying most selling product categories and products, which can help to plan inventory and hence meet the demands.
 
 # Conclusion :-
