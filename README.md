@@ -12,9 +12,12 @@ Exploratory Data Analysis (EDA) is a fundamental aspect of data science, often c
 4.Improved sales by identifying most selling product categories and products, which can help to plan inventory and hence meet the demands.
 
 # Conclusion :-
-1.Married women age group 26-35 yrs from UP,
-2.Maharastra and Karnataka working in IT,
-3.Healthcare and Aviation are more likely to buy products from Food,
+1.Married women age group 26-35 yrs from UP
+
+2.Maharastra and Karnataka working in IT
+
+3.Healthcare and Aviation are more likely to buy products from Food
+
 4.Clothing and Electronics category
 
 
